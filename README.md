@@ -12,5 +12,5 @@
 
 <p>
 <img width="1076" height="377" alt="image" 
-src="https://github.com/user-attachments/assets/55e28f32-58a1-4cd3-9513-6d8b4866ebbb" /> 
+src="https://github.com/AnchineshTaddese-IT/DeviceManagementInOkta/blob/main/OktaDev.png" /> 
      
